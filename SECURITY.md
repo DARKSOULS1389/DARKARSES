@@ -2,47 +2,19 @@
 
 ## Supported Versions
 
-The following versions of Rvg are currently receiving security updates:
+Security updates are provided for the latest stable release of ZEUS PANEL. Older versions are not actively maintained for security patches.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| latest  | :white_check_mark: |
-| < latest| :x:                 |
+| 2.4.x   | :white_check_mark: |
+| < 2.4   | :x:                |
 
-> Update this table with real version numbers once you have official releases (e.g. 1.x, 2.x).
+## Compliance & Acceptable Use
 
-## Reporting a Vulnerability
+This project is designed and maintained to strictly comply with GitHub's Community Guidelines and Acceptable Use Policies. The software is provided exclusively for personal, non-commercial use, aiming to facilitate secure and private network communication. 
 
-If you discover a security vulnerability in Rvg, please **do not** open a public GitHub issue.
+## Reporting a Vulnerability or Policy Violation
 
-Instead, report it privately through the following channel:
+If a security vulnerability or a potential violation of GitHub's policies is discovered within this repository, it is requested that it be reported immediately.
 
-- **Telegram:** [@codebox](https://t.me/CodeBoxo?direct)  <!-- replace with your real Telegram username or channel link -->
-
-Please contact us directly and privately via Telegram rather than posting details publicly.
-
-Please include as much of the following information as possible:
-
-- A description of the vulnerability and its potential impact
-- Steps to reproduce the issue (proof-of-concept code, if available)
-- The version/commit of Rvg affected
-- Any suggested fix or mitigation, if you have one
-
-## Response Process
-
-- We aim to acknowledge new reports within **48–72 hours**.
-- We will investigate and confirm the issue, then work on a fix.
-- Once a fix is ready, we will coordinate a release and, if appropriate, publish a security advisory.
-- We ask that you give us a reasonable amount of time to address the issue before disclosing it publicly (responsible disclosure).
-
-## Scope
-
-This policy covers the Rvg source code in this repository. Issues in third-party dependencies should be reported to their respective maintainers, though we appreciate being notified as well.
-
-## Recognition
-
-We're happy to credit security researchers who responsibly report valid vulnerabilities, unless they prefer to remain anonymous.
-
----
-
-Thank you for helping keep Rvg and its users safe.
+Please contact the maintainers directly via the official community channels (e.g., Telegram: @PANEL_ZEUS) or open a confidential security advisory through GitHub. Public disclosure of security vulnerabilities should be avoided until an official patch or response is issued. All reports are evaluated promptly, and necessary actions are taken to ensure ongoing compliance and security.
